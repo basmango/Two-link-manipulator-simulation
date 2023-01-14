@@ -23,7 +23,6 @@ The model parameters used in the simulation are:
    The desired trajectory for the arm is defined as qd = [π/3 + π/6sin(t), π/4 + π/6cos(t)].
     The controller gains used in the PD control input (Part 2) are chosen as KP = [15,20] and KD = [8,10]. These values can be adjusted for better ## performance.
     The results of the simulation are plotted in the scope blocks.
-    The simulation is done using the simulink, you can use the Matlab script depending on your preference.
 
 ## References
 
