@@ -27,5 +27,6 @@ The model parameters used in the simulation are:
 
 ## References
 
-   "Robotics, Vision & Control: Fundamental Algorithms In MATLAB, 2nd edition" by Peter Corke.
-    "Modeling, Identification and Control of Robots" by L. Sciavicco, B. Siciliano, L. Villani.
+   Robotics, Vision & Control: Fundamental Algorithms In MATLAB, 2nd edition" by Peter Corke.
+   
+   Modeling, Identification and Control of Robots" by L. Sciavicco, B. Siciliano, L. Villani.
